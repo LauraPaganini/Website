@@ -76,3 +76,9 @@ display-3{
     background-color: rgb(116, 25, 35);
     border-color: rgb(116, 25, 35);
 }
+
+.headshot{
+    float: right;
+    width:200px;
+    border-radius: 50%;
+}
